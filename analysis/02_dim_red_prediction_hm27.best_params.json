@@ -1,0 +1,1 @@
+{"embedder__tol": 1e-06, "embedder__n_neighbors": 12, "embedder__n_components": 750, "embedder__max_iter": 125, "embedder__hessian_tol": 0.00021544346900318823, "classifier__tol": 2.1544346900318822e-06, "classifier__max_iter": 130, "classifier__l1_ratio": 0.15789473684210525, "classifier__C": 22}
