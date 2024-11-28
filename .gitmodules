@@ -1,0 +1,3 @@
+[submodule "analysis/mylib"]
+	path = analysis/mylib
+	url = https://github.com/aalgahmi/mylib.git

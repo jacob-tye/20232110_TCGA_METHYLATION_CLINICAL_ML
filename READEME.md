@@ -16,5 +16,3 @@ See data prep code in [analysis/data_prep](analysis/data_prep)
 3. de Bruijn et al. Analysis and Visualization of Longitudinal Genomic and Clinical Data from the AACR Project GENIE Biopharma Collaborative in cBioPortal. Cancer Res (2023). PubMed.
 
 ----
-
-Look into how to cite TCGA datasets
