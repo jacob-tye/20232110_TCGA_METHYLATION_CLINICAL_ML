@@ -1,3 +1,8 @@
-data/*
+data/clinical/
+data/methylation/hm27_hm450_merge_meth_data.tsv
+data/methylation/hm450Kmeth_data.feather
+data/methylation/hm450Kmeth_metadata.tsv
+data/raw_data/
+data/methylation/normals/
 *.tar.gz
 analysis/data_prep/downloads.tar.gz
