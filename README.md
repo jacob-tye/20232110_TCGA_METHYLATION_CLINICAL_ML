@@ -66,7 +66,7 @@ The lower performance in subtype classification suggests epigenetic heterogeneit
 
 Presentation of project is in [`final_project_presentation.pptx`](./report/final_project_presentation.pptx)
 
-Full report for this project is in [`ML_Project_Report.docx`](./report/ML_Project_Report.docx)
+Full report for this project is in [`ML_Project_Report.pdf`](./report/ML_Project_Report.pdf)
 
 ## Dataset References
 
