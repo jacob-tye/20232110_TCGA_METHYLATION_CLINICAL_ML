@@ -29,13 +29,15 @@ Data preparation scripts are located in the [`analysis/data_prep`](./analysis/da
 
 - Implementation: [`analysis/01_1_dim_red_prediction.ipynb`](./analysis/01_1_dim_red_prediction.ipynb)
 
-1.1.1 **SHAP Troubleshooting with No Dimensionality Reduction**
+- SHAP Troubleshooting
 
-- Implementation: [`analysis/shap_memory_troubleshoot/01_logistic_regressor.ipynb`](./analysis/shap_memory_troubleshoot/01_logistic_regressor.ipynb)
+  - 1.1.1 **No Dimensionality Reduction**
 
-1.1.2 **SHAP Troubleshooting with HM27 Data**
+    - Implementation: [`analysis/shap_memory_troubleshoot/01_logistic_regressor.ipynb`](./analysis/shap_memory_troubleshoot/01_logistic_regressor.ipynb)
 
-- Implementation: [`analysis/shap_memory_troubleshoot/02_dim_red_prediction_hm27.ipynb`](./analysis/shap_memory_troubleshoot/02_dim_red_prediction_hm27.ipynb)
+  - 1.1.2 **HM27 Data**
+
+    - Implementation: [`analysis/shap_memory_troubleshoot/02_dim_red_prediction_hm27.ipynb`](./analysis/shap_memory_troubleshoot/02_dim_red_prediction_hm27.ipynb)
 
 1.2 **Principal Component Analysis with Gradient Boosting**  
 
