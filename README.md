@@ -29,7 +29,7 @@ Data preparation scripts are located in the [`analysis/data_prep`](./analysis/da
 
 1.2 **Principal Component Analysis with Gradient Boosting**  
 
-- Implementation: [TO UPDATE](./analysis/TO_UPDATE)
+- Implementation: [01_2_gradient_boosting.ipynb](./analysis/01_2_gradient_boosting.ipynb)
 
 Both models achieved over 97% accuracy on the testing dataset.
 
@@ -43,7 +43,7 @@ K-Means clustering, resulting in a normalized mutual information (NMI) score of 
 2.2 **Supervised**:  
 Neural network following feature dimensionality reduction, achieving an NMI score of 0.58.  
 
-- Implementation: [TO UPDATE](./analysis/TO_UPDATE)
+- Implementation: [02_02_neural_network.ipynb](./analysis/02_02_neural_network.ipynb)
 
 ## Results
 
