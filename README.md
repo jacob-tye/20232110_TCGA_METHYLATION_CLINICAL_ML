@@ -19,7 +19,7 @@ The analyses utilize publicly available data:
 
 Data preparation scripts are located in the [`analysis/data_prep`](./analysis/data_prep) directory.
 
-*Note: Data is not included in GitHub Repo Due to GitHub Sizing Restraints. To get the data please see the [`analysis/data_prep`](./analysis/data_prep) directory and the samples used in [`data/methylation/all_samples_450K.tsv`](data/methylation/all_samples_450K.tsv)*
+*Note: Data is not included in GitHub repo due to GitHub sizing restraints. To get the data please see the [`analysis/data_prep`](./analysis/data_prep) directory and the samples used in [`data/methylation/all_samples_450K.tsv`](data/methylation/all_samples_450K.tsv)*
 
 ## Methodology
 
