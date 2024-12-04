@@ -29,7 +29,7 @@ Data preparation scripts are located in the [`analysis/data_prep`](./analysis/da
 
 1.2 **Principal Component Analysis with Gradient Boosting**  
 
-- Implementation: [analysis/01_2_gradient_boosting.ipynb](./analysis/01_2_gradient_boosting.ipynb)
+- Implementation: [`analysis/01_2_gradient_boosting.ipynb`](./analysis/01_2_gradient_boosting.ipynb)
 
 Both models achieved over 97% accuracy on the testing dataset.
 
@@ -43,7 +43,7 @@ K-Means clustering, resulting in a normalized mutual information (NMI) score of 
 2.2 **Supervised**:  
 Neural network following feature dimensionality reduction, achieving an NMI score of 0.58.  
 
-- Implementation: [analysis/02_02_neural_network.ipynb](./analysis/02_02_neural_network.ipynb)
+- Implementation: [`analysis/02_02_neural_network.ipynb`](./analysis/02_02_neural_network.ipynb)
 
 ## Results
 
@@ -52,9 +52,9 @@ The lower performance in subtype classification suggests epigenetic heterogeneit
 
 ## Report
 
-Presentation of proejct is in [final_project_presentation.pptx](./report/final_project_presentation.pptx)
+Presentation of proejct is in [`final_project_presentation.pptx`](./report/final_project_presentation.pptx)
 
-Full report for this project is in [ML_Project_Report.docx](./report/ML_Project_Report.docx)
+Full report for this project is in [`ML_Project_Report.docx`](./report/ML_Project_Report.docx)
 
 ## Dataset References
 
